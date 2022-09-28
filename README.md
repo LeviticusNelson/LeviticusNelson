@@ -3,7 +3,7 @@
 Teams that I am currently working with:
 
 - @BubbleSocial 🫧
-- @ApexKingdoms 🦉
+- @apex-kingom 🦉
 
 Currently working with:
 
