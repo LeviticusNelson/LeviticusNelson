@@ -12,3 +12,7 @@ Currently working with:
 - NextJs ⚛️
 - Vercel 🔼
 - Postgres (RDS) 🐘
+
+Editor(s):
+- Xcode 🔨
+- Neovim ⌨️
