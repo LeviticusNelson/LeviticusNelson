@@ -3,15 +3,11 @@
 Teams that I am currently working with:
 
 - @BubbleSocial 🫧
-- @apex-kingom 🦉
+- Caller Id Reputation
 
-Currently working with:
+Current technologies working with:
 
-- Golang 🐹
-- Swift 🐦
-- NextJs ⚛️
-- Vercel 🔼
-- Postgres (RDS) 🐘
+[![My Skills](https://skills.thijs.gg/icons?i=typescript,html,bootstrap,go,svelte,lua)](https://skills.thijs.gg)
 
 Editor(s):
 - Xcode 🔨
