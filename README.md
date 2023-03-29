@@ -7,7 +7,7 @@ Teams that I am currently working with:
 
 Current technologies working with:
 
-[![My Skills](https://skills.thijs.gg/icons?i=typescript,html,bootstrap,go,svelte,lua,rust)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=typescript,html,bootstrap,go,svelte,lua,rust,swift)](https://skills.thijs.gg)
 
 Editor(s):
 - Xcode 🔨
