@@ -1,9 +1,9 @@
-#### ✨Aspiring Software Engineer, Skillful, Articulate Communicator, Team Player✨
+#### ✨Software Engineer, Skillful, Articulate Communicator, Team Player✨
 
 Teams that I am currently working with:
 
-- @BubbleSocial 🫧
 - Caller Id Reputation
+- @BubbleSocial 🫧
 
 Current technologies working with:
 
