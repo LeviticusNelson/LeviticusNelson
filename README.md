@@ -6,8 +6,18 @@ Team(s) that I am currently working with:
 
 Current technologies working with:
 
-[![My Skills](https://skills.thijs.gg/icons?i=typescript,html,bootstrap,go,svelte,lua,rust,swift)](https://skills.thijs.gg)
+- typescript
+- html
+- bootstrap
+- go
+- svelte(kit)
+- lua
+- rust
+- swift
+- bun.js
+- mysql
+- gofiber
+- gorm.io
 
-Editor(s):
-- Xcode 🔨
+Editor:
 - Neovim ⌨️
